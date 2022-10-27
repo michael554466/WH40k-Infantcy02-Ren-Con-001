@@ -1,8 +1,8 @@
 <Name>		MB3 Recon Drone
-<Class>
-<ID>
+<Class>		Fast-Attack
+<ID>		Pathinder-Team#02
 
-<Health>	10
+<Health>	100
 
 <Ability01>
 
