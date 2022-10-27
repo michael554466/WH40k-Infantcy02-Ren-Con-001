@@ -1,4 +1,4 @@
-<Name>
+<Name>		MB3 Recon Drone
 <Class>
 <ID>
 
